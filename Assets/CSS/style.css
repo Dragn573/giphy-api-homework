@@ -1,0 +1,33 @@
+body {
+    background-color: rgb(211, 20, 20);
+    background-size: cover; 
+     
+}
+
+.container {
+    background-color: white;
+    font-family: 'Luckiest Guy', cursive;
+    
+}
+
+h1{
+    color:blue;
+    font-size: 60px;
+}
+
+.food{
+    float: left;
+    border: 2px;
+    padding-left: 20px;
+    padding-right: 30px;
+}
+
+.food-btn{
+    font-family: 'Luckiest Guy', cursive;
+    font-size: 20px;
+}
+
+#add-food{
+    font-family: 'Luckiest Guy', cursive;
+    background-color: yellow;
+}
